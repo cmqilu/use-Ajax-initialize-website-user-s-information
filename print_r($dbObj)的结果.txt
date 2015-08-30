@@ -1,0 +1,9 @@
+ms_new_mysql Object ( 
+[dbHost:ms_new_mysql:private] => 127.0.0.1 
+[dbUser:ms_new_mysql:private] => root 
+[dbPassword:ms_new_mysql:private] => [dbTable:ms_new_mysql:private] => mukewang 
+[dbConn:ms_new_mysql:private] => Resource id #4 
+[result:ms_new_mysql:private] => [sql:ms_new_mysql:private] => [pre:ms_new_mysql:private] => [coding:ms_new_mysql:private] => utf-8 
+[pcon:ms_new_mysql:private] => 0 
+[queryNum:ms_new_mysql:private] => )
+ 
